@@ -7,6 +7,8 @@ module.exports = {
       colors: {
         penguin: '#FFFBF0',
         jacketprice: '#FABE4C',
+        benefitText: '#3E3E3E',
+        main: '#E5E5E5',
       },
     },
   },
