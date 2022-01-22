@@ -6,6 +6,7 @@ module.exports = {
     extend: {
       colors: {
         penguin: '#FFFBF0',
+        jacketprice: '#FABE4C',
       },
     },
   },
